@@ -1,4 +1,4 @@
-<img src="https://ddombuj.com/ddombuj/BannerDiego.png"></img>
+<img src="[https://ddombuj.com/ddombuj/BannerDiego.png](https://github.com/ddombuj/ddombuj/blob/ce9c275fe539fd295b0c3488129ad81f621f6f1e/BannerDiego.png)"></img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
 
