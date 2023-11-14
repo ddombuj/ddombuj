@@ -1,4 +1,4 @@
-<img>https://ddombuj.com/ddombuj/BannerDiego.img</img>
+<img>(https://ddombuj.com/ddombuj/BannerDiego.img)</img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
 
