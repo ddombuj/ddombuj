@@ -1,4 +1,4 @@
-<img>![](src="https://ddombuj.com/ddombuj/BannerDiego.img")</img>
+<img src="https://ddombuj.com/ddombuj/BannerDiego.png></img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
 
