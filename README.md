@@ -1,3 +1,4 @@
+<h1>👋 Hi there, I am Diego</h1>
 <img src="BannerDiego.png" width=100%></img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
