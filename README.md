@@ -1,5 +1,4 @@
-<img>[BannerDiego.png](https://github.com/ddombuj/ddombuj/blob/5d19f97bf3b2a3e4ef2aa1b6d959e4110a7c974f/BannerDiego.png)</img>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<img>https://ddombuj.com/ddombuj/BannerDiego.img</img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
 
