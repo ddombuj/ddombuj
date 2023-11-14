@@ -1,4 +1,4 @@
-<img src="BannerDiego.png"></img>
+<img src="BannerDiego.png" width=100%></img>
 
 - 🌱 I’m currently studying **Multi-Platform Application Development**
 
