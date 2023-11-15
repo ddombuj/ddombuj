@@ -8,6 +8,7 @@
 ¡Hola! Soy Diego, un estudiante apasionado por el desarrollo de aplicaciones multiplataforma. A continuación, te presento un resumen de mis habilidades y proyectos.
 
 ## Habilidades 🚀
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql)](https://skillicons.dev)
 
 - **Java:** Tengo experiencia en programación en Java, desde aplicaciones de consola hasta desarrollo en entornos Android.
 
@@ -22,6 +23,7 @@
 ---
 
 ## Proyectos Destacados 🌟
+[![My IDE's](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postgres,sqlite)](https://skillicons.dev)
 
 ### [Nombre del Proyecto 1](enlace al repositorio)
 
