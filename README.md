@@ -1,10 +1,10 @@
 <h1>👋 Hi there, I am Diego</h1>
 <img src="BannerDiego.png" width=100%></img>
 
-<div margin=auto>
-  - 🌱 I’m currently studying **Multi-Platform Application Development**
+<div align="center">
+  🌱 I’m currently studying **Multi-Platform Application Development**
     
-  - 📫 How to reach me **ddombuj2705@gmail.com**  
+  📫 How to reach me **ddombuj2705@gmail.com**  
 </div>
   
 
