@@ -1,5 +1,5 @@
 <h1>👋 Hi there, I am Diego</h1>
-<img src="BannerDiego.jpg"></img>
+<img src="BannerDiego"></img>
 
 
  - 🌱 I’m currently studying **Multi-Platform Application Development**
