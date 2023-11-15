@@ -67,5 +67,3 @@ Agradezco a la comunidad de desarrollo y a todas las personas que han compartido
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddombuj&theme=midnight-purple&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>  
 </p>
 
----
-
