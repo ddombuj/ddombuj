@@ -48,9 +48,3 @@ Planeo seguir aprendiendo y contribuir a proyectos emocionantes en el mundo del 
 
 Agradezco a la comunidad de desarrollo y a todas las personas que han compartido su conocimiento. ¡Estoy emocionado por lo que el futuro en el mundo del desarrollo de aplicaciones me depara!
 
----
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddombuj&theme=midnight-purple&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-
