@@ -22,19 +22,6 @@
 
 ---
 
-## Proyectos Destacados 🌟
-[![My IDE's](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postgres,sqlite)](https://skillicons.dev)
-
-### [Nombre del Proyecto 1](enlace al repositorio)
-
-Breve descripción del proyecto. Puedes incluir tecnologías utilizadas, problemas resueltos y lecciones aprendidas.
-
-### [Nombre del Proyecto 2](enlace al repositorio)
-
-Otro proyecto significativo. Comparte información sobre su propósito, funcionalidades y tu contribución al desarrollo.
-
----
-
 ## Educación 📚
 
 - **Nombre de la Institución:** I.E.S Vega de Mijas
