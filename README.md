@@ -42,9 +42,4 @@
 
 Planeo seguir aprendiendo y contribuir a proyectos emocionantes en el mundo del desarrollo de aplicaciones multiplataforma. ¡Si tienes alguna oportunidad interesante, no dudes en contactarme!
 
----
-
-## Agradecimientos 🙏
-
-Agradezco a la comunidad de desarrollo y a todas las personas que han compartido su conocimiento. ¡Estoy emocionado por lo que el futuro en el mundo del desarrollo de aplicaciones me depara!
 
