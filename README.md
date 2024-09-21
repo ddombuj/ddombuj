@@ -9,7 +9,7 @@
 A continuación, te presento un resumen de mis habilidades y proyectos.
 
 ## Habilidades 🚀
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,mongodb,docker,gradle,androidstudio,idea,vscode,eclipse,linux)](https://skillicons.dev)
 
 - **Java:** Tengo experiencia en programación en Java 21, desde aplicaciones de consola hasta desarrollo en entornos Android, incluyendo Frameworks como Spring Boot y conexiones a bases de datos mediante JDBC.
 
@@ -29,11 +29,13 @@ A continuación, te presento un resumen de mis habilidades y proyectos.
 
 ## Educación 📚
 
+**DAW**
 - **Nombre de la Institución:** I.E.S Vega de Mijas
 - **Grado:** Desarrollo de Aplicaciones Web
 - **Año de Inicio:** 2024
 - **Año de Graduación:** 2025
 
+**DAM**
 - **Nombre de la Institución:** I.E.S Vega de Mijas
 - **Grado:** Desarrollo de Aplicaciones Multiplataforma
 - **Año de Inicio:** 2022
