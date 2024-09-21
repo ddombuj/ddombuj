@@ -3,31 +3,41 @@
 
 ---
 
-# 👩‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma
+# 👩‍💻 Software Developer (Backend with some Frontend knowleadge)
 
-¡Hola! Soy Diego, un estudiante apasionado por el desarrollo de aplicaciones multiplataforma. A continuación, te presento un resumen de mis habilidades y proyectos.
+¡Hola! Soy Diego, un desarrollador entusiasmado por el desarrollo de aplicaciones tanto multiplataforma como web. Me encuentro en búsqueda activa de empleo y cursando un grado superior de Desarrollo de aplicaciones Web (DAW).
+A continuación, te presento un resumen de mis habilidades y proyectos.
 
 ## Habilidades 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql)](https://skillicons.dev)
 
-- **Java:** Tengo experiencia en programación en Java, desde aplicaciones de consola hasta desarrollo en entornos Android.
+- **Java:** Tengo experiencia en programación en Java 21, desde aplicaciones de consola hasta desarrollo en entornos Android, incluyendo Frameworks como Spring Boot y conexiones a bases de datos mediante JDBC.
 
 - **HTML y CSS:** He trabajado en el desarrollo de interfaces de usuario utilizando HTML y CSS, creando páginas web y aplicaciones web responsivas.
+
+- **JavaScript:** Me encuentro mejorando mis habilidades técnicas en JS, reforzando los conceptos básicos y búscando iniciarme en los Frameworks más populares como Angular o React.
 
 - **SQL:** Manejo bases de datos con SQL, desde el diseño de esquemas hasta la ejecución de consultas complejas.
   
 - **JUnit y Pruebas en Java:** He utilizado la librería de pruebas JUnit y otros métodos para asegurar la calidad del código.
 
-- **JDBC:** Experiencia en el acceso a bases de datos mediante JDBC, facilitando la interacción con sistemas de gestión de bases de datos relacionales.
+- **Docker:** Actualmente profundizando en la creación y administración de contenedores, Docker Compose, y el despliegue de aplicaciones en entornos aislados.
 
+- **Microservicios:** Entendimiento básico del diseño y desarrollo de arquitecturas de microservicios, implementando servicios independientes y escalables, utilizando Spring Boot.
+  
 ---
 
 ## Educación 📚
 
 - **Nombre de la Institución:** I.E.S Vega de Mijas
+- **Grado:** Desarrollo de Aplicaciones Web
+- **Año de Inicio:** 2024
+- **Año de Graduación:** 2025
+
+- **Nombre de la Institución:** I.E.S Vega de Mijas
 - **Grado:** Desarrollo de Aplicaciones Multiplataforma
 - **Año de Inicio:** 2022
-- **Año de Graduación Esperado:** 2024
+- **Año de Graduación:** 2024
 
 ---
 
